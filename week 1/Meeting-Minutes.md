@@ -15,6 +15,6 @@ We had overall 2 meetings in this week<br>
 > **Time Alocated :** 90 min<br>
 > **Platform :** offline<br>
 > **Discussion :**<br>
->> *Created class Diagram <br>
+>> *User Stories,Use case Diagram<br>
 >
 > **Status :** Completed<br>
