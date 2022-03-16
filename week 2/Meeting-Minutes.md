@@ -1,4 +1,4 @@
-# Week-1 Meeting Minutes
+# Week-2 Meeting Minutes
 
 We had overall 2 meetings in this week<br>
 > **Date :** tuesday,01/03/2022<br>
