@@ -1,6 +1,6 @@
-# Week-2 Meeting Minutes
 
-We had 2 meetings in total<br>
+
+
 We had overall 3 meetings in this week<br>
 > **Date :** Saturday,19/03/2022<br>
 > **Time :** 03:20 PM<br>
