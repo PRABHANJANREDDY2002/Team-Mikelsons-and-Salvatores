@@ -50,7 +50,7 @@ We had overall 3 meetings in this week<br>
 > **Agenda :** ui design
 > **Discussion :**<br>
 >> * dividing work among us <br>
->> rechecking each others work <br>
+>> rechecking each others work,ui design of insert details <br>
 >> 
 >
-> **Status :** ui design of insert details<br>
+> **Status :** compleated<br>
