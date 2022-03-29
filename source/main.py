@@ -2,6 +2,7 @@ from tkinter import *
 from tkinter import messagebox
 from functools import partial
 from PIL import ImageTk, Image
+import math
 def main_menu():
     def resize_bg(event):
         global bgg, resized, bg2
